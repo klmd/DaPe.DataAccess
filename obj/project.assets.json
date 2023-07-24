@@ -9752,11 +9752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.DataAccess\\DaPe.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.DataAccess\\DaPe.DataAccess.csproj",
       "projectName": "DaPe.DataAccess",
-      "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.DataAccess\\DaPe.DataAccess.csproj",
+      "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.DataAccess\\DaPe.DataAccess.csproj",
       "packagesPath": "C:\\Users\\daniel.petrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9778,11 +9778,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.Models\\DaPe.Models.csproj": {
-              "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.Models\\DaPe.Models.csproj"
+            "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj": {
+              "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Models\\DaPe.Models.csproj"
             },
-            "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.Utility\\DaPe.Utility.csproj": {
-              "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\DaPe.Utility\\DaPe.Utility.csproj"
+            "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Utility\\DaPe.Utility.csproj": {
+              "projectPath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.Utility\\DaPe.Utility.csproj"
             }
           }
         }
