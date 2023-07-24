@@ -36,3 +36,4 @@ C:\Users\daniel.petrik\source\repos\DaPe.DataAccess\obj\Debug\net8.0\refint\DaPe
 C:\Users\daniel.petrik\source\repos\DaPe.DataAccess\obj\Debug\net8.0\DaPe.DataAccess.pdb
 C:\Users\daniel.petrik\source\repos\DaPe.DataAccess\obj\Debug\net8.0\DaPe.DataAccess.genruntimeconfig.cache
 C:\Users\daniel.petrik\source\repos\DaPe.DataAccess\obj\Debug\net8.0\ref\DaPe.DataAccess.dll
+C:\Users\daniel.petrik\source\repos\DaPe.DataAccess\obj\Debug\net8.0\DaPe.DataAccess.sourcelink.json

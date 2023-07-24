@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DaPe.DataAccess.Repository;
+
 
 namespace DaPe.DataAccess.Repository
 {
@@ -11,7 +13,8 @@ namespace DaPe.DataAccess.Repository
         ICategoryRepository Category { get; }
         IProductRepository Product { get; }
         IKindOfProductRepository TypeOfProduct { get; }
-
+        ICompanyRepository Company { get; }
+        //IApplicationUserRepository ApplicationUser { get; }
         void Save();
     }
 }

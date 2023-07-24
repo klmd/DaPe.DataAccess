@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DaPe.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1524e2599fe0c6584636525edb4255861f35b73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f776b002b707ca3b42af4d72cc3db7398ea2a199")]
 [assembly: System.Reflection.AssemblyProductAttribute("DaPe.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DaPe.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
