@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dIlwh+isu6hAEe3qZkrz5l2Dm7+EHOeY0ghzOWqg2l51G3ctIXPK/uJME4EYRUSkL4nyPVt9iYBaGp7f708nvQ==",
+  "dgSpecHash": "F2Ejd8cNYbDW8BblwixYWJxeoNBxqE6769HP8lFJ2jemRfWfkMLOoiGhVqjVlhYnszFyt+tdZLIVMgluXBXRzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\daniel.petrik\\source\\repos\\UdemyAspNetCoreMVC\\DaPe.DataAccess\\DaPe.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\daniel.petrik\\Documents\\GitHub\\Edemy_Eshop\\DaPe.DataAccess\\DaPe.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.petrik\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\daniel.petrik\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
